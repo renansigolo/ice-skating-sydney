@@ -1,0 +1,23 @@
+section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+section div {
+  display: flex;
+  justify-content: center;
+  /* border: 1px solid #000; */
+  margin: 10px;
+}
+
+section img {
+  width: 80vw;
+  height: auto;
+}
